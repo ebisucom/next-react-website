@@ -1,0 +1,28 @@
+{
+  "name": "blog-chap6",
+  "private": true,
+  "description": "「作って学ぶ Next.js/React Webサイト構築」のChapter 6のプロジェクトデータです",
+  "homepage": "https://github.com/ebisucom/next-react-website",
+  "author": "エビスコム - EBISUCOM (https://ebisu.com/)",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^6.1.1",
+    "@fortawesome/free-brands-svg-icons": "^6.1.1",
+    "@fortawesome/free-regular-svg-icons": "^6.1.1",
+    "@fortawesome/free-solid-svg-icons": "^6.1.1",
+    "@fortawesome/react-fontawesome": "^0.1.18",
+    "next": "12.2.0",
+    "react": "18.2.0",
+    "react-dom": "18.2.0"
+  },
+  "devDependencies": {
+    "eslint": "8.18.0",
+    "eslint-config-next": "12.2.0"
+  }
+}

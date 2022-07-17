@@ -1,0 +1,1 @@
+{"apiFields":[{"idValue":"FlRaIsFU55","fieldId":"name","name":"カテゴリ名","kind":"text","required":true,"isUnique":false},{"fieldId":"slug","name":"スラッグ","kind":"text","required":true,"isUnique":true}],"customFields":[]}

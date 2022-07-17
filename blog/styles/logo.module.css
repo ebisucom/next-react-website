@@ -1,0 +1,14 @@
+.basic {
+  font-size: var(--heading2);
+  font-weight: 700;
+  letter-spacing: 0.15em;
+}
+
+.box {
+  composes: basic;
+  display: inline-block;
+  padding: 1em 2em;
+  background-color: var(--gray-75);
+  color: var(--white);
+  font-size: var(--small-heading2);
+}
