@@ -1,5 +1,7 @@
 # 作って学ぶ Next.js/React Webサイト構築
 
+![作って学ぶ Next.js/React Webサイト構築](https://repository-images.githubusercontent.com/510925642/56e98f7c-6e99-47a1-bae1-1203afbd0b82)
+
 **ダウンロードデータ**
 
 セットアップPDFや、本書で作成するプロジェクトデータ、使用する画像素材、インポート用のコンテンツデータなどを収録しています。詳しくは、本書を参照してください。
