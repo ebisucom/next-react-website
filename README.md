@@ -2,6 +2,14 @@
 
 ![作って学ぶ Next.js/React Webサイト構築](https://repository-images.githubusercontent.com/510925642/56e98f7c-6e99-47a1-bae1-1203afbd0b82)
 
+---
+
+**[Wiki](https://github.com/ebisucom/next-react-website/wiki)に正誤情報を追加しました。［2022年8月8日］**
+
+※最新の情報は著者NOTE（https://ebisu.com/note/ ） や Twitter ( https://twitter.com/ebisucom ) でも出していますので、参考にしてください。
+
+---
+
 **ダウンロードデータ**
 
 セットアップPDFや、本書で作成するプロジェクトデータ、使用する画像素材、インポート用のコンテンツデータなどを収録しています。詳しくは、本書を参照してください。
@@ -9,11 +17,6 @@
 * [サポートサイト](https://book.mynavi.jp/supportsite/detail/9784839980177.html) 
 * [書籍情報](https://ebisu.com/next-react-website/)
 
----
-
-※最新の情報は著者NOTE（https://ebisu.com/note/ ） や Twitter ( https://twitter.com/ebisucom ) でも出していますので、参考にしてください。
-
----
 
 ## ■【セットアップPDF】setup.pdf
 
