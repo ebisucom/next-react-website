@@ -4,7 +4,7 @@
 
 ---
 
-**[Wiki](https://github.com/ebisucom/next-react-website/wiki)の正誤情報を更新しました。［2022年8月12日］**
+**[Wiki](https://github.com/ebisucom/next-react-website/wiki)の正誤情報を更新しました。［2022年8月17日］**
 
 ※最新の情報は著者NOTE（https://ebisu.com/note/ ） や Twitter ( https://twitter.com/ebisucom ) でも出していますので、参考にしてください。
 
