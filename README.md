@@ -4,7 +4,8 @@
 
 ---
 
-**[Wiki](https://github.com/ebisucom/next-react-website/wiki)の正誤情報を更新しました。［2022年8月17日］**
+* **副読本のセットアップPDFを更新しました（P.2にPDFの使い方を追加しました）。［2022年8月19日］**
+* **[Wiki](https://github.com/ebisucom/next-react-website/wiki)の正誤情報を更新しました。［2022年8月17日］**
 
 ※最新の情報は著者NOTE（https://ebisu.com/note/ ） や Twitter ( https://twitter.com/ebisucom ) でも出していますので、参考にしてください。
 
@@ -18,7 +19,7 @@
 * [書籍情報](https://ebisu.com/next-react-website/)
 
 
-## ■【セットアップPDF】setup.pdf
+## ■【副読本：セットアップPDF】setup.pdf
 
 開発環境などを準備する方法についてまとめたPDFです。
 
