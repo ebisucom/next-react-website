@@ -4,7 +4,7 @@
 
 ---
 
-* **副読本のセットアップPDFを更新しました（P.2にPDFの使い方を追加しました）。［2022年8月19日］**
+* **副読本のセットアップPDFを更新しました（P.30に「CSS ModulesのcomposesとVisual Studio Code」を追加）［2022年9月6日］**
 * **[Wiki](https://github.com/ebisucom/next-react-website/wiki)の正誤情報を更新しました。［2022年8月17日］**
 
 ※最新の情報は著者NOTE（https://ebisu.com/note/ ） や Twitter ( https://twitter.com/ebisucom ) でも出していますので、参考にしてください。
