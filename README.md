@@ -4,8 +4,9 @@
 
 ---
 
-* **副読本のセットアップPDFを更新しました（P.30に「CSS ModulesのcomposesとVisual Studio Code」を追加）［2022年9月6日］**
-* **[Wiki](https://github.com/ebisucom/next-react-website/wiki)の正誤情報を更新しました。［2022年8月17日］**
+* **Next.js 13がリリースされました。これから本書のサンプルを始める方や、すでに始めているプロジェクトをNext.js 13へアップデートする方は、副読本の「Next.js 13 対応ガイド（速報版）【next13.pdf】」を確認してください。［2022年10月26日］**
+* 副読本の「セットアップPDF」を更新しました（P.30に「CSS ModulesのcomposesとVisual Studio Code」を追加）［2022年9月6日］
+* [Wiki](https://github.com/ebisucom/next-react-website/wiki)の正誤情報を更新しました。［2022年8月17日］
 
 ※最新の情報は著者NOTE（https://ebisu.com/note/ ） や Twitter ( https://twitter.com/ebisucom ) でも出していますので、参考にしてください。
 
@@ -18,6 +19,10 @@
 * [サポートサイト](https://book.mynavi.jp/supportsite/detail/9784839980177.html) 
 * [書籍情報](https://ebisu.com/next-react-website/)
 
+
+## ■【副読本：Next.js 13 対応ガイド（速報版）】next13.pdf
+
+Next.js 13を使って本書のブログサイト制作を進める上での注意点と、すでに進めている本書のプロジェクトをNext.js 13へアップデートする方法をまとめたPDFです。
 
 ## ■【副読本：セットアップPDF】setup.pdf
 
