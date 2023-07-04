@@ -1,0 +1,15 @@
+.flexContainer {
+  composes: spaceBetween from 'styles/utils.module.css';
+  margin: var(--space-lg) 0;
+  gap: 1em;
+}
+
+.next {
+  margin-left: auto;
+}
+
+.iconText {
+  display: flex;
+  align-items: center;
+  gap: 0.5em;
+}

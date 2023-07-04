@@ -1,0 +1,23 @@
+.stack {
+  padding: var(--space-sm) 0;
+}
+
+.stack > * + * {
+  margin-top: var(--stack-space, 1em);
+}
+
+.subtitle {
+  font-size: var(--small-heading2);
+  font-weight: 700;
+}
+
+.title {
+  --stack-space: 0.2em;
+}
+
+.publish {
+  display: flex;
+  gap: 0.5em;
+  color: var(--gray-50);
+  font-size: var(--small-heading3);
+}
