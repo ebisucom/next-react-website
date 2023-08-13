@@ -3,6 +3,7 @@
 ![作って学ぶ Next.js/React Webサイト構築](https://repository-images.githubusercontent.com/510925642/56e98f7c-6e99-47a1-bae1-1203afbd0b82)
 
 ---
+**plaiceholderのバージョンについて[サポートWiki](https://github.com/ebisucom/next-react-website/wiki)に追加しました。 ［2023年8月13日］**
 
 **「Next.js 13 対応ガイド」（next13.pdf）を速報版から更新しました。 ［2023年7月5日］**
 
